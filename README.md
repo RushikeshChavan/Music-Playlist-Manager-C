@@ -40,10 +40,15 @@ gcc playlist_manager.c -o playlist_manager
 
 
 🧠 Concepts Used
+
 Circular Queue using arrays
+
 Modular arithmetic for index handling
+
 String handling using strcpy, fgets, etc.
+
 Menu-driven user interface
+
 Use of global variables and constants in C
 
 📷 Example Menu
@@ -61,14 +66,14 @@ C compiler (e.g., GCC)
 Terminal/command line
 
 📁 File Structure
-cpp
 
 Playlist-Manager-C/
 ├── playlist_manager.c   // Main source code
 └── README.md            // Project description
+
+
 🧑‍💻 Author
 Rushikesh Chindhu Chavan
-
 GitHub: @RushikeshChavan
 
 📃 License
